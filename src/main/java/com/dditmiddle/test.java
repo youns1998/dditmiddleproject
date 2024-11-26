@@ -2,7 +2,8 @@ package com.dditmiddle;
 
 public class test {
 	
-	// 수정.2
 
+
+///dddrer 다시 연습중 
 
 }
