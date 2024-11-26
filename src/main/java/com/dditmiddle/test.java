@@ -2,6 +2,6 @@ package com.dditmiddle;
 
 public class test {
 	
-	//영준이형 수정
+	//수정테스트 입니다2222
 
 }
