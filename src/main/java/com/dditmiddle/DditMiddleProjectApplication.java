@@ -10,7 +10,7 @@ public class DditMiddleProjectApplication {
 		SpringApplication.run(DditMiddleProjectApplication.class, args);
 		//sdsdfsdfdsasdfsdfdsfdsfdfsldkjflsdkfjㄴㅇㄹㄴㅇㄹ
 		//ㄹㅇㄴㄹㄴㅇㄹㅇㄴㄹㅇㅇㅇ
-		// 테스트
+		// 테스트중
 	}
 
 }
